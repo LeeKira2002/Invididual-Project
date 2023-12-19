@@ -8,8 +8,13 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main // chạy 1 lần
-git remote add origin https://github.com/LeeKira2002/Invididual-Project.git
+git remote add origin https://github.com/LeeKira2002/Invididual-Project.git // chạy 1 lần
 git push -u origin main
 
 git config --global user.name LeeKira2002
 git config --global user.email lequangthanh241482@gmail.com
+
+**Config commit - push code**
+git add .
+git commit -m "message"
+git push origin head
