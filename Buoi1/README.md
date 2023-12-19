@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/12Pc1XEG_3eGdhF7HHMLS-Ztlz82SUcWllMQBKjNw
 git init
 git add .
 git commit -m "first commit"
-git branch -M main
+git branch -M main // chạy 1 lần
 git remote add origin https://github.com/LeeKira2002/Invididual-Project.git
 git push -u origin main
 
